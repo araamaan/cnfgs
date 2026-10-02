@@ -1,1 +1,2 @@
 vless://76a205ef-ac37-44b1-8280-365adf94cfb2@de.tehranionliine.ir:80?type=ws&path=%2F&host=%2F&security=none#wsfth
+vless://c7f703e1-79b0-470e-8737-b1384695d9ea@vip.ertebatgoostar.ir:80?path=%2F&security=none&encryption=none&type=ws#ali10g72
